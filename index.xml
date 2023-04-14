@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>關於我轉職變成軟體工程師這件事</title>
+    <link>https://borischen0203.github.io/</link>
+    <description>Recent content on 關於我轉職變成軟體工程師這件事</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://borischen0203.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://borischen0203.github.io/blog/build_website/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borischen0203.github.io/blog/build_website/</guid>
+      <description>&amp;lt;a&amp;gt; 用於創建鏈接到其他網頁或文件。 Ex.
+&amp;lt;a href=&amp;#34;https://www.google.com&amp;#34;&amp;gt;Google&amp;lt;/a&amp;gt; &amp;lt;!-- &amp;lt;a&amp;gt; 標籤用來創建一個指向 Google 網站的鏈接，顯示的文字是 &amp;#34;Google&amp;#34; --&amp;gt; &amp;lt;img&amp;gt; 用於向網頁添加圖像。 Ex.</description>
+    </item>
+    
+  </channel>
+</rss>
