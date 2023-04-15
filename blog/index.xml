@@ -5,15 +5,16 @@
     <link>https://borischen0203.github.io/blog/</link>
     <description>Recent content in Blogs on 關於我轉職變成軟體工程師這件事</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language><atom:link href="https://borischen0203.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 13 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://borischen0203.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://borischen0203.github.io/blog/build_website/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>英國留學 - 關於我轉職變成軟體工程師這件事</title>
+      <link>https://borischen0203.github.io/blog/change_career/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://borischen0203.github.io/blog/build_website/</guid>
-      <description>&amp;lt;a&amp;gt; 用於創建鏈接到其他網頁或文件。 Ex.
-&amp;lt;a href=&amp;#34;https://www.google.com&amp;#34;&amp;gt;Google&amp;lt;/a&amp;gt; &amp;lt;!-- &amp;lt;a&amp;gt; 標籤用來創建一個指向 Google 網站的鏈接，顯示的文字是 &amp;#34;Google&amp;#34; --&amp;gt; &amp;lt;img&amp;gt; 用於向網頁添加圖像。 Ex.</description>
+      <guid>https://borischen0203.github.io/blog/change_career/</guid>
+      <description>大學唸的是機械系，畢業後從事了4年的機構工程師，因緣際會下得知英國有專門開給非本科唸的Computer Science碩士，2019年出發到英國伯明翰唸了一年制Computer Science conversion碩士，畢業回台工作半年後，又以Tier 5(YMS)打工度假簽回到英國，經歷了一段曲折的求職旅程，目前在倫敦擔任軟體工程師。
+源起： 非本科的人要轉職為軟體工程師的路線通常有以下幾種： • Bootcamp(e.g. 資策會、AppWorks School、六角學院…etc) • 考台灣資工所 • 申請國外Computer science碩士 • 自學</description>
     </item>
     
   </channel>
